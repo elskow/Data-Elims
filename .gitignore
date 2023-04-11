@@ -1,3 +1,1 @@
-datasets/train.csv
-datasets/test.csv
-datasets/sample_submission.csv
+*.csv
