@@ -1,0 +1,1 @@
+This gonna be place for placing notebook for the EDA process. 
